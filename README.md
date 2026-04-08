@@ -138,7 +138,7 @@ ruta_pdf = generar_pdf(metricas, rutas_graficos, nombre_empresa="Tu Negocio")
 
 Desarrollado por **Pablo Taddei**  
 Fullstack Developer — Python · .NET · Angular · React · Flutter  
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [Portfolio](https://tu-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/pablo-taddei-a8413a21/) · [Portfolio](https://tu-portfolio.com)
 
 ---
 
