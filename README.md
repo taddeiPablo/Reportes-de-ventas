@@ -145,7 +145,7 @@ Fullstack Developer — Python · .NET · Angular · Flutter
 ## 📬 ¿Necesitás algo similar para tu negocio?
 
 Puedo adaptar esta herramienta a tus datos, tu formato y tus procesos.  
-Escribime por LinkedIn o al correo **tu@email.com**
+Escribime por LinkedIn o al correo **taddeiapablo23@gmail.com**
 
 ---
 
